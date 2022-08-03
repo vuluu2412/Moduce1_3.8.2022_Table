@@ -16,11 +16,8 @@
       <change afterPath="$PROJECT_DIR$/../CV/image/anhbia1.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../CV/image/sl1_dqbz.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../CV/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Moduce1._3.8.2022_Tablesimple.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/table.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tablesimple.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tao bang nang cao.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bangnangcao.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../New Bitmap Image (2).bmp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../New Bitmap Image (3).bmp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../New Bitmap Image.bmp" afterDir="false" />
@@ -28,6 +25,8 @@
       <change afterPath="$PROJECT_DIR$/../Zoom.lnk" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demogit-master/.idea/demogit.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +42,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -67,6 +66,7 @@
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/vuluu/Desktop/demogit-master",
     "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -78,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659494543488</updated>
-      <workItem from="1659494545198" duration="1894000" />
+      <workItem from="1659494545198" duration="5383000" />
     </task>
     <servers />
   </component>
